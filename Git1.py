@@ -1,5 +1,6 @@
 import math
-
+def _sqr(x):
+    return x*x
 a = int(input('Введите первое число'))
 b = int(input('Введите второе число'))
 z = input('Введите операцию')
